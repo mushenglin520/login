@@ -1,0 +1,5 @@
+{
+  "name": "GAS Member System Simulator",
+  "description": "A React-based simulation of a Google Apps Script member system with Login/Register functionality and a code generator for the actual GAS deployment.",
+  "requestFramePermissions": []
+}
